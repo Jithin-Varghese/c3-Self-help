@@ -15,3 +15,7 @@
 * Now you will prompted to enter your **Password**. Enter the passoword and click on **Sign in**.
 
 <img src="/Images/C3-image-3.jpg">  
+
+* On your first login, you will have to agree to the terms and conditions. Check mark the box corresponding to **I have read the terms and conditions** and then click on **ACCEPT**.
+
+<img src="/Images/C3-image-4.jpg">  
