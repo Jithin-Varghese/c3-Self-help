@@ -30,4 +30,6 @@
 
 * Now that we are logged in, to view the profile, click on **Prfoile** on the side bar.  
 
-<img src="/Images/C3-image-7.jpg">
+<img src="/Images/C3-image-7.jpg">  
+
+## Licenses and Subscription Management
