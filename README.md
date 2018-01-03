@@ -33,3 +33,9 @@
 <img src="/Images/C3-image-7.jpg">  
 
 ## Licenses and Subscription Management
+
+In this section, we look deep into License and Subscription Management.
+
+* To go to the **Subscriptions** page, click on the **Subscriptions** button on the side bar.
+
+<img src="/Images/C3-image-8.jpg">
