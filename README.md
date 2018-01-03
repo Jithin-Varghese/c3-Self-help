@@ -8,6 +8,6 @@
 
 <img src="/Images/C3-image-1.jpg">  
 
-* After clicking on **LOGIN**, you will be prompted to enter your Username and Password that has been provided to you.
+* After clicking on **LOGIN**, you will be prompted to enter your **Username** and **Password** that has been provided to you. First you will be prompted to enter the Username, ie the *administrator email address* provided to you.
 
 <img src="/Images/C3-image-2.jpg">
