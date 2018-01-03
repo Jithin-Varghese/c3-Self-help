@@ -1,1 +1,6 @@
-# c3-Self-help
+# C3-Self-help
+
+
+## Login as Customer admin  
+
+* asd
