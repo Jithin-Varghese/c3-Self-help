@@ -22,4 +22,8 @@
 
 * When you have agreed to the terms and conditions, you will get the following pop-up. Click on **OK** to proceed.
 
-<img src="/Images/C3-image-5.jpg">  
+<img src="/Images/C3-image-5.jpg">
+
+* Now you are logged in and will be able to perform various actions on the Dashboard.
+
+<img src="/Images/C3-image-6.jpg">
