@@ -19,3 +19,7 @@
 * On your first login, you will have to agree to the terms and conditions. Check mark the box corresponding to **I have read the terms and conditions** and then click on **ACCEPT**.
 
 <img src="/Images/C3-image-4.jpg">  
+
+* When you have agreed to the terms and conditions, you will get the following pop-up. Click on **OK** to proceed.
+
+<img src="/Images/C3-image-5.jpg">  
