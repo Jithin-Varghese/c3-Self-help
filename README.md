@@ -20,10 +20,14 @@
 
 <img src="/Images/C3-image-4.jpg">  
 
-* When you have agreed to the terms and conditions, you will get the following pop-up. Click on **OK** to proceed.
+* When you have agreed to the terms and conditions, we will get the following pop-up. Click on **OK** to proceed.
 
 <img src="/Images/C3-image-5.jpg">
 
-* Now you are logged in and will be able to perform various actions on the Dashboard.
+* Now we are logged in and will be able to perform various actions on the Dashboard.
 
 <img src="/Images/C3-image-6.jpg">
+
+* Now that we are logged in, to view the profile, click on **Prfoile** on the side bar.  
+
+<img src="/Images/C3-image-7.jpg">
