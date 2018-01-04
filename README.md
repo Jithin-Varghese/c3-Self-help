@@ -34,6 +34,8 @@
 
 ## Licenses and Subscription Management
 
+### Assign License to users
+
 In this section, we look deep into License and Subscription Management.
 
 * To go to the **Subscriptions** page, click on the **Subscriptions** button on the side bar.
@@ -54,6 +56,12 @@ In this section, we look deep into License and Subscription Management.
 
 *  Now the **Quantity** and **Total** will be updated based on the number of new licenses.  
 
-<img src="/Images/C3-image-12.jpg"> 
+<img src="/Images/C3-image-12.jpg">   
+
+### Assign License to users
+
+To assign licenses to users, proceed as follows.  
+
+
 
 
