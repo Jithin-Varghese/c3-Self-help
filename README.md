@@ -47,3 +47,5 @@ In this section, we look deep into License and Subscription Management.
 * To increase the number of licenses, click on the button on the right hand side of the **New Quantity Total** oru you can manually enter the number of new licenses required in the tab space provided corresponding to **New Quantity Total**. You can decrease the number of licenses in the same way as described.   
 
 <img src="/Images/C3-image-10.jpg">  
+
+
