@@ -71,7 +71,13 @@ To create a user via C3, proceed as follows.
 
 * **Click** on the **Users** button on the side bar in the portal.   
 
-<img src="/Images/C3-image-13.jpg">
+<img src="/Images/C3-image-13.jpg">  
+
+* In the **Users** section, click on the **+ ADD NEW USER** button on the right side.  
+
+<img src="/Images/C3-image-14.jpg">
+
+
 
 
 
