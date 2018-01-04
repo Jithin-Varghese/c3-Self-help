@@ -48,4 +48,8 @@ In this section, we look deep into License and Subscription Management.
 
 <img src="/Images/C3-image-10.jpg">  
 
+* When you have updated the number of licenses and clicked on the **SUBMIT** button, you will get the following pop-up. **Click** on **OK** to proceed.
+
+<img src="/Images/C3-image-11.jpg">  
+
 
