@@ -102,7 +102,9 @@ To create a user via C3, proceed as follows.
 
 * **Click** on the *key shaped* button corresponding to the user whose password is to be resetted.    
 
-<img src="/Images/C3-image-17.jpg">   
+<img src="/Images/C3-image-17.jpg">  
+
+
 
 
 
