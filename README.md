@@ -86,7 +86,11 @@ To create a user via C3, proceed as follows.
     
     After entering the above details click on **SUBMIT**.  
     
-    <img src="/Images/C3-image-15.jpg">
+    <img src="/Images/C3-image-15.jpg">  
+ 
+ * After entering the details and clicking **SUBMIT**, the following pop-up will be displayed. **Click** on **OK**.  
+ 
+ <img src="/Images/C3-image-16.jpg">  
 
 
 
