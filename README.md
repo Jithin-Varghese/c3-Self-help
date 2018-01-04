@@ -66,6 +66,11 @@ To assign licenses to users, proceed as follows:
 
 <img src="/Images/C3-image-13.jpg">  
 
+* **Click** on the *Hammer* shaped sign corresponding to the user for which the license is to be assigned.    
+
+<img src="/Images/C3-image-20.jpg">
+
+
 
 
 ## User Management
