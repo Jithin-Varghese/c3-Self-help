@@ -75,7 +75,18 @@ To create a user via C3, proceed as follows.
 
 * In the **Users** section, click on the **+ ADD NEW USER** button on the right side.  
 
-<img src="/Images/C3-image-14.jpg">
+<img src="/Images/C3-image-14.jpg">  
+
+*  Enter the following details to create a user:  
+    * **First name**: Sample (First name of the user)    
+    * **Last name**: User (Last name of the user)    
+    * **Display name**: Sample User (Display name of the user)  
+    * **Email**: sample.user@cohosample.onmicrosoft.com (Email address of the user)    
+    * **Usage Location**: United States of America (Usage location of the user)    
+    
+    After entering the above details click on **SUBMIT**.  
+    
+    <img src="/Images/C3-image-15.jpg">
 
 
 
