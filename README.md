@@ -65,6 +65,14 @@ To assign licenses to users, proceed as follows.
 
 ## User Management
 
+### Create User  
+
+To create a user via C3, proceed as follows.  
+
+* **Click** on the **Users** button on the side bar in the portal.   
+
+<img src="/Images/C3-image-13.jpg">
+
 
 
 
