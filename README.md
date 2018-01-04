@@ -34,7 +34,7 @@
 
 ## Licenses and Subscription Management
 
-### Assign License to users
+### Increase/Decrease Quantity of Subscription
 
 In this section, we look deep into License and Subscription Management.
 
@@ -60,7 +60,12 @@ In this section, we look deep into License and Subscription Management.
 
 ### Assign License to users
 
-To assign licenses to users, proceed as follows.  
+To assign licenses to users, proceed as follows:  
+
+* **Click** on the **Users** button on the side bar in the portal.   
+
+<img src="/Images/C3-image-13.jpg">  
+
 
 
 ## User Management
