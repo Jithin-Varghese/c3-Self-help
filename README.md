@@ -110,8 +110,12 @@ To create a user via C3, proceed as follows.
     
     After selecting the appropriate option, **click** on **OK**.  
     
-    <img src="/Images/C3-image-18.jpg"> 
+    <img src="/Images/C3-image-18.jpg">  
+    
+ *  After selecting the method to reset the password, the password will be reset and the following notification will pop-up. **Click** on **OK** to proceed.  
  
+ 
+ <img src="/Images/C3-image-19.jpg">
 
 
 
