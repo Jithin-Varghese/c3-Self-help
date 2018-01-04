@@ -52,4 +52,8 @@ In this section, we look deep into License and Subscription Management.
 
 <img src="/Images/C3-image-11.jpg">  
 
+*  Now the **Quantity** and **Total** will be updated based on the number of new licenses.  
+
+<img src="/Images/C3-image-12.jpg"> 
+
 
