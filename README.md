@@ -73,7 +73,13 @@ To assign licenses to users, proceed as follows:
 * Select the appropriate License which is to be assigned to the user from the list of available licenses.  After selecting the license **click** on **SUBMIT**.  
 
 
-<img src="/Images/C3-image-21.jpg">
+<img src="/Images/C3-image-21.jpg">  
+
+* On clicking **SUBMIT**, the license will be updated and the following pop-up notification will be displayed. **Click** on **OK** to proceed.  
+
+<img src="/Images/C3-image-22.jpg">    
+
+
 
 
 
