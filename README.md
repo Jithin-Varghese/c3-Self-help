@@ -68,8 +68,12 @@ To assign licenses to users, proceed as follows:
 
 * **Click** on the *Hammer* shaped sign corresponding to the user for which the license is to be assigned.    
 
-<img src="/Images/C3-image-20.jpg">
+<img src="/Images/C3-image-20.jpg">  
 
+* Select the appropriate License which is to be assigned to the user from the list of available licenses.  After selecting the license **click** on **SUBMIT**.  
+
+
+<img src="/Images/C3-image-21.jpg">
 
 
 
