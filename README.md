@@ -104,6 +104,15 @@ To create a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-17.jpg">  
 
+* A window will pop-up with the following options:  
+    * **Auto-generate Password**: C3 will auto generate a password for the user.  
+    * **Custom Password**: A custom password can be set for the user.  
+    
+    After selecting the appropriate option, **click** on **OK**.  
+    
+    <img src="/Images/C3-image-18.jpg"> 
+ 
+
 
 
 
