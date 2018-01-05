@@ -1,6 +1,8 @@
 # C3-Self-help
 <!-- TOC -->
 * [Login to Portal](#login-to-portal)  
+* [Licenses and Subscription Management](#licenses-and-subscription-management)  
+    * [Increase/Decrease Quantity of Subscription](increase/decrease-quantity-of-subscription)    
 
 <!-- TOC -->
 
