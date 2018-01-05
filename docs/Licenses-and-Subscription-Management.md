@@ -69,5 +69,9 @@ To assign licenses to users, proceed as follows:
 
 <img src="/Images/C3-image-23.jpg">  
 
+* On clicking **SUBMIT**, the license will be updated and the following pop-up notification will be displayed. **Click** on **OK** to proceed.  
+
+<img src="/Images/C3-image-22.jpg"> 
+
 
 
