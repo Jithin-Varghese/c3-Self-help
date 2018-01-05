@@ -1,7 +1,10 @@
 # C3-Self-help
+<!-- TOC -->
+* [Login to Portal](#login-to-portal)  
 
+<!-- TOC -->
 
-## Login as Customer admin  
+## Login to Portal  
 
 * Users can login to C3 by following the link provided. Users will have to use the credentials provided to login to the c3 portal. 
 * To login to the C3 portal, open your browser and navigate to the portal. Click on the **LOGIN** button on the top right hand side of the portal.  
