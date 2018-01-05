@@ -2,8 +2,11 @@
 <!-- TOC -->
 * [Login to Portal](#login-to-portal)  
 * [Licenses and Subscription Management](#licenses-and-subscription-management)  
-    * [Increase/Decrease Quantity of Subscription](##increase/decrease-quantity-of-subscription)  
+    * [Increase/Decrease Quantity of Subscription](#increase/decrease-quantity-of-subscription)  
     * [Assign License to users](#assign-license-to-users)  
+* [User Management](#user-management)  
+    * [create-user](#create-user)  
+
     
 
 <!-- TOC -->
