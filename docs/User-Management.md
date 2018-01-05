@@ -1,4 +1,11 @@
-# User Management
+# User Management  
+
+<!-- TOC -->
+* [Create User](#create-user)  
+* [Reset Password](#reset-password)  
+
+<!-- TOC -->
+
 
 ## Create User  
 
