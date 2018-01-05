@@ -2,7 +2,8 @@
 
 <!-- TOC -->
 * [Increase or Decrease Quantity of Subscription](#increase-or-decrease-quantity-of-subscription)  
-* [Assign License to users](#assign-license-to-users)
+* [Assign License to users](#assign-license-to-users)  
+* [Remove license from users](#remove-license-from-users)    
 
 <!-- TOC -->
 
@@ -50,6 +51,19 @@ To assign licenses to users, proceed as follows:
 * On clicking **SUBMIT**, the license will be updated and the following pop-up notification will be displayed. **Click** on **OK** to proceed.  
 
 <img src="/Images/C3-image-22.jpg">    
+
+
+## Remove license from users  
+
+To assign licenses to users, proceed as follows:  
+
+* **Click** on the **Users** button on the side bar in the portal.   
+
+<img src="/Images/C3-image-13.jpg">  
+
+* **Click** on the *Hammer* shaped sign corresponding to the user for which the license is to be assigned.    
+
+<img src="/Images/C3-image-20.jpg">  
 
 
 
