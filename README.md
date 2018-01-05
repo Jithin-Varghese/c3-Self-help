@@ -1,6 +1,6 @@
 # C3-Self-help
 <!-- TOC -->
-* [Login to Portal](#login-to-portal)  
+* [Login to Portal](/docs/Login%20to%20Portal.md)  
 * [Licenses and Subscription Management](#licenses-and-subscription-management)  
     * [Increase/Decrease Quantity of Subscription](#increase/decrease-quantity-of-subscription)  
     * [Assign License to users](#assign-license-to-users)  
