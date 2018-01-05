@@ -1,6 +1,12 @@
 # Licenses and Subscription Management
 
-## Increase/Decrease Quantity of Subscription
+<!-- TOC -->
+* [Increase or Decrease Quantity of Subscription](#increase-or-decrease-quantity-of-subscription)  
+* [Assign License to users](#Assign-License-to-users)
+
+<!-- TOC -->
+
+## Increase or Decrease Quantity of Subscription
 
 In this section, we look deep into License and Subscription Management.
 
