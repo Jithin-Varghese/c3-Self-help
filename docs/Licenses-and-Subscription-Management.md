@@ -65,7 +65,7 @@ To assign licenses to users, proceed as follows:
 
 <img src="/Images/C3-image-20.jpg">  
 
-* **Uncheck** the license corresponding to the user, whose license is to be removed.    
+* **Uncheck** the license corresponding to the user, whose license is to be removed and click on **SUBMIT**.    
 
 <img src="/Images/C3-image-23.jpg">  
 
