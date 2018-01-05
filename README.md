@@ -5,7 +5,7 @@
     * [Increase/Decrease Quantity of Subscription](#increase/decrease-quantity-of-subscription)  
     * [Assign License to users](#assign-license-to-users)  
 * [User Management](#user-management)  
-    * [create-user](#create-user)  
+    * [Create User](#create-user)  
 
     
 
