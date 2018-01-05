@@ -3,7 +3,8 @@
 <!-- TOC -->
 * [Increase or Decrease Quantity of Subscription](#increase-or-decrease-quantity-of-subscription)  
 * [Assign License to users](#assign-license-to-users)  
-* [Remove license from users](#remove-license-from-users)    
+* [Remove license from users](#remove-license-from-users)  
+* [Buy new subscription](#buy-new-subscription)  
 
 <!-- TOC -->
 
