@@ -74,4 +74,11 @@ To assign licenses to users, proceed as follows:
 <img src="/Images/C3-image-22.jpg"> 
 
 
+## Buy new subscription  
+
+To buy a new subscription, proceed as follows:  
+
+* To go to the **Subscriptions** page, click on the **Subscriptions** button on the side bar.
+
+<img src="/Images/C3-image-8.jpg">  
 
