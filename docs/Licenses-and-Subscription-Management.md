@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 * [Increase or Decrease Quantity of Subscription](#increase-or-decrease-quantity-of-subscription)  
-* [Assign License to users](#Assign-License-to-users)
+* [Assign License to users](#assign-license-to-users)
 
 <!-- TOC -->
 
