@@ -5,6 +5,7 @@
     * [Increase or Decrease Quantity of Subscription](/docs/Licenses-and-Subscription-Management.md#increase-or-decrease-quantity-of-subscription)  
     * [Assign License to users](/docs/Licenses-and-Subscription-Management.md#assign-license-to-users)  
     * [Remove license from users](/docs/Licenses-and-Subscription-Management.md#remove-license-from-users)  
+    * [Buy new subscription](/docs/Licenses-and-Subscription-Management.md#buy-new-subscription)  
 * [User Management](/docs/User-Management.md)  
     * [Create User](/docs/User-Management.md#create-user)  
 
