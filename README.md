@@ -11,6 +11,7 @@
     * [Reset Password](/docs/User-Management.md#reset-password)  
     * [Edit User](/docs/User-Management.md#edit-user)  
 * [View Profile and Invoice](/docs/View-Profile-and-Invoice.md)  
+    * [View Invoice](/docs/View-Profile-and-Invoice.md#view-invoice)  
     
 
 <!-- TOC -->
