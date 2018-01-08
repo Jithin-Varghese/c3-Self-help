@@ -3,6 +3,7 @@
 <!-- TOC -->
 * [Create User](#create-user)  
 * [Reset Password](#reset-password)  
+* [Edit User](#edit-user)  
 
 <!-- TOC -->
 
