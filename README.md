@@ -8,6 +8,7 @@
     * [Buy new subscription](/docs/Licenses-and-Subscription-Management.md#buy-new-subscription)  
 * [User Management](/docs/User-Management.md)  
     * [Create User](/docs/User-Management.md#create-user)  
+    * [Reset Password](/docs/User-Management.md#reset-password)  
 
     
 
