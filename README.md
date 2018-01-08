@@ -10,7 +10,7 @@
     * [Create User](/docs/User-Management.md#create-user)  
     * [Reset Password](/docs/User-Management.md#reset-password)  
     * [Edit User](/docs/User-Management.md#edit-user)  
-
+* [View Profile and Invoice](/docs/View-Profile-and-Invoice.md)  
     
 
 <!-- TOC -->
