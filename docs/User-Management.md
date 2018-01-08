@@ -72,5 +72,9 @@ To edit a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-24.jpg">  
 
+* On clicking the button, the page with all the User Details will be displayed. Make the changes and **click** on the **UPDATE** button.  
+<img src="/Images/C3-image-25.jpg">  
+
+
 
 
