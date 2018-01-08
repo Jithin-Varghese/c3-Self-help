@@ -12,7 +12,7 @@
     * [Edit User](/docs/User-Management.md#edit-user)  
 * [View Profile and Invoice](/docs/View-Profile-and-Invoice.md)  
     * [View Invoice](/docs/View-Profile-and-Invoice.md#view-invoice)  
-    
+* [Support](/docs/Support.md)      
 
 <!-- TOC -->
 
