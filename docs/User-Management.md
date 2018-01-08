@@ -57,5 +57,13 @@ To create a user via C3, proceed as follows.
  *  After selecting the method to reset the password, the password will be reset and the following notification will pop-up. **Click** on **OK** to proceed.  
  
  
- <img src="/Images/C3-image-19.jpg">
+ <img src="/Images/C3-image-19.jpg">  
+ 
+ ## o	Edit User    
+
+To edit a user via C3, proceed as follows.  
+
+* **Click** on the **Users** button on the side bar in the portal.   
+
+<img src="/Images/C3-image-13.jpg">    
 
