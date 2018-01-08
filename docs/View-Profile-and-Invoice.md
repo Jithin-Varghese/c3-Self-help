@@ -15,4 +15,12 @@ To view the invoice, proceed as follows:
 
 *  Now, all the invoices will be displayed. ** Click** on the **invoice** which is to be viewed.  
 
-<img src="/Images/C3-image-27.jpg"> 
+<img src="/Images/C3-image-27.jpg">  
+
+* The invoice page will now be displayed. The page will contain all the details regarding the invoices. To download the invoices, click on the **DOWNLOAD INVOICE** button.  
+
+<img src="/Images/C3-image-28.jpg">  
+
+
+
+
