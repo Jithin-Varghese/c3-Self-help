@@ -66,5 +66,11 @@ To edit a user via C3, proceed as follows.
 
 * **Click** on the **Users** button on the side bar in the portal.   
 
-<img src="/Images/C3-image-13.jpg">    
+<img src="/Images/C3-image-13.jpg">  
+
+* **Click** on the **Edit User Details** button corresponding to the user whose details is to be edited.  
+
+<img src="/Images/C3-image-24.jpg">  
+
+
 
