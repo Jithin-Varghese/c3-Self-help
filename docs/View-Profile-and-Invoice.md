@@ -21,6 +21,7 @@ To view the invoice, proceed as follows:
 
 <img src="/Images/C3-image-28.jpg">  
 
+* On clicking the **DOWNLOAD INVOICE** button, the invoice will be downloaded and can be viewed. 
 
 
 
