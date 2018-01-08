@@ -3,7 +3,7 @@
 <!-- TOC -->
 * [Create User](#create-user)  
 * [Reset Password](#reset-password)  
-* [Edit User](#edit-user)  
+* [Edit User](#edit-user)    
 
 <!-- TOC -->
 
@@ -60,7 +60,7 @@ To create a user via C3, proceed as follows.
  
  <img src="/Images/C3-image-19.jpg">  
  
- ## o	Edit User    
+ ## Edit User    
 
 To edit a user via C3, proceed as follows.  
 
