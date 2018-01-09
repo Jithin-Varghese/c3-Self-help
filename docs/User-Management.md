@@ -63,9 +63,13 @@ To create a user via C3, proceed as follows.
 
 ## License management of user
 
-* To **manage** the licenses, click on the **Subscriptions** button on the side bar.
+* To **manage** the licenses, go to the Subscriptions page by clicking on the **Subscriptions** button on the side bar.
 
 <img src="/Images/C3-image-8.jpg">  
+
+* **Click** on the **MANAGE** button corresponding to the license which is to be managed.   
+
+<img src="/Images/C3-image-33.jpg">  
 
  ## Edit User    
 
