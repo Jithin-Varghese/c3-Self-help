@@ -3,8 +3,9 @@
 <!-- TOC -->
 * [Create User](#create-user)  
 * [Reset Password](#reset-password)  
+* [License management of user](#license-management-of-user)  
 * [Edit User](#edit-user)  
-* [License management of user](#license-management-of-user)
+
 
 <!-- TOC -->
 
@@ -71,6 +72,7 @@ To create a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-33.jpg">  
 
+
  ## Edit User    
 
 To edit a user via C3, proceed as follows.  
@@ -85,6 +87,7 @@ To edit a user via C3, proceed as follows.
 
 * On clicking the button, the page with all the User Details will be displayed. Make the changes and **click** on the **UPDATE** button.  
 <img src="/Images/C3-image-25.jpg">  
+
 
 
 
