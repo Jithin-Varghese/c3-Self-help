@@ -83,3 +83,7 @@ To buy a new subscription, proceed as follows:
 
 <img src="/Images/C3-image-8.jpg">  
 
+* The exisitng subscriptions will be displayed. To buy a new subscription, **click** on the **+ ADD NEW SUBSCRIPTION** button on the top right hand side.  
+
+<img src="/Images/C3-image-32.jpg">
+
