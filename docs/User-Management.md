@@ -75,7 +75,8 @@ To create a user via C3, proceed as follows.
 * The  
     * **Orginal Quantity**: *the number of licenses purchased*.  
     * **Cost**: *Cost of the (individual)license purchased*  
-    * **Total Cost**: *Total cost which is to be paid*.
+    * **Total Cost**: *Total cost which is to be paid*.  
+    * **View and search**: *The users who are assigned the specific license can be viewed. To check whether a user is assigned the license, type the name of the user in the **search** bar*.  
 
 <img src="/Images/C3-image-34.jpg">
 
