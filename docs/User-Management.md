@@ -82,7 +82,7 @@ To create a user via C3, proceed as follows.
 
  ## Edit User    
 
-To edit a user via C3, proceed as follows.  
+To edit the user details, proceed as follows.  
 
 * **Click** on the **Users** button on the side bar in the portal.   
 
