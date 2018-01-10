@@ -72,6 +72,12 @@ To create a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-33.jpg">  
 
+* The  
+    * **Orginal Quantity**: *the number of licenses purchased*.  
+    * **Cost**: *Cost of the (individual)license purchased*  
+    * **Total Cost**: *Total cost which is to be paid*.
+
+<img src="/Images/C3-image-34.jpg">
 
  ## Edit User    
 
