@@ -22,4 +22,7 @@ To raise a support ticket, proceed as follows:
     After entering all the details, click on **SUBMIT**.  
     
     <img src="/Images/C3-image-31.jpg">    
-    
+
+* On clicking **SUBMIT**, you will get the following pop-up. **Click** on **OK** to proceed.  
+
+<img src="/Images/C3-image-35.jpg">   
