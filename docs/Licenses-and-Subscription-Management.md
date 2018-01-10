@@ -1,12 +1,25 @@
 # Licenses and Subscription Management
 
 <!-- TOC -->
+* [Buy new subscription](#buy-new-subscription)
 * [Increase or Decrease Quantity of Subscription](#increase-or-decrease-quantity-of-subscription)  
 * [Assign License to users](#assign-license-to-users)  
 * [Remove license from users](#remove-license-from-users)  
-* [Buy new subscription](#buy-new-subscription)  
+  
 
 <!-- TOC -->
+
+## Buy new subscription  
+
+To buy a new subscription, proceed as follows:  
+
+* To go to the **Subscriptions** page, click on the **Subscriptions** button on the side bar.
+
+<img src="/Images/C3-image-8.jpg">  
+
+* The exisitng subscriptions will be displayed. To buy a new subscription, **click** on the **+ ADD NEW SUBSCRIPTION** button on the top right hand side.  
+
+<img src="/Images/C3-image-32.jpg">  
 
 ## Increase or Decrease Quantity of Subscription
 
@@ -75,15 +88,5 @@ To assign licenses to users, proceed as follows:
 <img src="/Images/C3-image-22.jpg"> 
 
 
-## Buy new subscription  
 
-To buy a new subscription, proceed as follows:  
-
-* To go to the **Subscriptions** page, click on the **Subscriptions** button on the side bar.
-
-<img src="/Images/C3-image-8.jpg">  
-
-* The exisitng subscriptions will be displayed. To buy a new subscription, **click** on the **+ ADD NEW SUBSCRIPTION** button on the top right hand side.  
-
-<img src="/Images/C3-image-32.jpg">
 
