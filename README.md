@@ -9,6 +9,7 @@
 * [User Management](/docs/User-Management.md)  
     * [Create User](/docs/User-Management.md#create-user)  
     * [Reset Password](/docs/User-Management.md#reset-password)  
+    * [License management of user](/docs/User-Management.md#license-management-of-user)  
     * [Edit User](/docs/User-Management.md#edit-user)  
 * [View Profile and Invoice](/docs/View-Profile-and-Invoice.md)  
     * [View Invoice](/docs/View-Profile-and-Invoice.md#view-invoice)  
