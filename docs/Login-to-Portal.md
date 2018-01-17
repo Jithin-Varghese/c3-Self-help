@@ -9,7 +9,7 @@
 
 <img src="/Images/C3-image-2.jpg">  
 
-* Now you will be prompted to enter your **Password**. Enter the passoword and click on **Sign in**.
+* Now you will be prompted to enter your **Password**. Enter the password and click on **Sign in**.
 
 <img src="/Images/C3-image-3.jpg">  
 
