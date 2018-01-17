@@ -25,6 +25,6 @@
 
 <img src="/Images/C3-image-6.jpg">
 
-* Now that we are logged in, to view the profile, click on **Prfoile** on the side bar.  
+* Now that we are logged in, to view the profile, click on **Profile** on the side bar.  
 
 <img src="/Images/C3-image-7.jpg">  
