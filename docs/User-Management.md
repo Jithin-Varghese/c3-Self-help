@@ -74,7 +74,11 @@ To create a user via C3, proceed as follows.
 
 * Enter the new number of licenses that is required and **click** on **SUBMIT**.    
  
-<img src="/Images/C3-image-37.jpg">
+<img src="/Images/C3-image-37.jpg">  
+
+* On clicking **SUBMIT** button, you will get the following pop-up and the number of licenses will be updated.  
+
+<img src="/Images/C3-image-38.jpg">  
 
  ## Edit User    
 
