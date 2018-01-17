@@ -45,7 +45,7 @@ To create a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-13.jpg">  
 
-* **Click** on the *key shaped* button corresponding to the user whose password is to be resetted.    
+* **Click** on the *key shaped* button corresponding to the user whose password is to be reset.    
 
 <img src="/Images/C3-image-17.jpg">  
 
