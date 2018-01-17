@@ -72,15 +72,9 @@ To create a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-36.jpg">  
 
-* The  
-    * **Original Quantity**: *the number of licenses purchased*.  
-    * **Cost**: *Cost of the (individual)license purchased*  
-    * **Total Cost**: *Total cost which is to be paid*.  
-    * **View and search**: *The users who are assigned the specific license can be viewed. To check whether a user is assigned the license, type the name of the user in the **search** bar*.  
-    * **Multiple User**: *To assign licenses to multiple user, type the email addresses separated by a comma.*  
-    * **Upload File**: * If the number of users to be assigned is large, upload a text file with all the email addresses.*  
-
-<img src="/Images/C3-image-34.jpg">
+* Enter the new number of licenses that is required and **click** on **SUBMIT**.    
+ 
+<img src="/Images/C3-image-37.jpg">
 
  ## Edit User    
 
