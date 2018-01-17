@@ -21,6 +21,16 @@ To buy a new subscription, proceed as follows:
 
 <img src="/Images/C3-image-32.jpg">  
 
+*  You will be redirected to the page where you will be able to buy new subscription. **Choose** the **Billing Cycles** (**Monthly/Annual**).  
+
+* Choose the **Offer Name** and enter the **Quantity (No. of Licenses)** and then **click** on **SUBMIT**.   
+
+<img src="/Images/C3-image-39.jpg">  
+
+*  On clicking **SUBMIT**, you will get the following pop-up. **Click** on **OK** to proceed.  
+
+<img src="/Images/C3-image-40.jpg">  
+
 ## Increase or Decrease Quantity of Subscription
 
 In this section, we look deep into License and Subscription Management.
