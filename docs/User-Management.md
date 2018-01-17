@@ -68,9 +68,9 @@ To create a user via C3, proceed as follows.
 
 <img src="/Images/C3-image-8.jpg">  
 
-* **Click** on the **MANAGE** button corresponding to the license which is to be managed.   
+* **Click** on the **EDIT** button corresponding to the license which is to be managed.   
 
-<img src="/Images/C3-image-33.jpg">  
+<img src="/Images/C3-image-36.jpg">  
 
 * The  
     * **Original Quantity**: *the number of licenses purchased*.  
