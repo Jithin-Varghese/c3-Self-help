@@ -12,7 +12,7 @@ To raise a support ticket, proceed as follows:
   
 * Enter the following details to submit a support ticket:  
     * **Subject**: Enter the subject/heading for the issue that is being faced.  
-    * **Description**: Enter a breif description of the issue that is being faced.  
+    * **Description**: Enter a brief description of the issue that is being faced.  
     * **Contact Email**: Enter the email address of the Point of Contact.  
     * **Contact Phone**: Enter the phone number of the Point of Contact.  
     * **Priority**: Choose the priority of the issue being faced (*Minor/Medium/Major*)  
